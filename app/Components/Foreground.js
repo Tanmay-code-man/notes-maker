@@ -5,23 +5,23 @@ import { useRef } from 'react';
 const Foreground = () => {
     const ref = useRef(null);
     const data=[
-        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", filesize:".9mb", close: true, tag:{
-            isOpen: true, tagTitle:"Download Now", tagColor: "green" 
+        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project",tag:{
+            tagTitle:"Delete" 
         }},
-        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", filesize:".9mb", close: false , tag:{
-            isOpen: false, tagTitle:"Download Now", tagColor: "green" 
+        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project",tag:{
+            tagTitle:"Delete"
         }},
-        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", filesize:".9mb", close: true, tag:{
-            isOpen: true, tagTitle:"Download Now", tagColor: "green" 
+        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project",tag:{
+            tagTitle:"Delete"
         }},
-        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", filesize:".9mb", close: true, tag:{
-            isOpen: true, tagTitle:"Download Now", tagColor: "green" 
+        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project",tag:{
+            tagTitle:"Delete"
         }},
-        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", filesize:".9mb", close: true, tag:{
-            isOpen: true, tagTitle:"Download Now", tagColor: "green" 
+        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", tag:{
+            tagTitle:"Delete"
         }},
-        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", filesize:".9mb", close: true, tag:{
-            isOpen: true, tagTitle:"Download Now", tagColor: "green" 
+        {desc:"Made glorious summer by this sun of York And all the clouds that lour'd upon our house.Hi This is a sample card to my project", tag:{
+            tagTitle:"Delete"
         }}
     ]
     
